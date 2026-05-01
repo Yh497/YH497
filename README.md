@@ -6,6 +6,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yh497&theme=github-dark-blue&hide_border=true" width="60%" />
 </p>
 
+🏆 Achievements
+
+🥇 HCL GUVI Internship — Grade A+ with 90/100 marks
+🎯 Accenture Data Analytics Virtual Internship — Completed
+🤝 E-Summit Volunteer — IIT Patna (Jan–Mar 2024), 500+ participants
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yh497&label=Profile%20Views&color=1F4E79&style=flat-square" />
+</p>
+<p align="center">
+  <b>⭐ Open to Data Analyst roles & internships — Let's connect!</b>
+</p>
+
 
 <!--
 **Yh497/YH497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
