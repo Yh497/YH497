@@ -1,6 +1,41 @@
 # 💫 About Me:
-👋 Hi there! I’m Yash Kumari<br><br>🎓 A distance learning student at IIT Patna<br>💡 Passionate about Data Science, Machine Learning, and everything data-driven<br>🐍 Skilled in Python, Power BI, and building ML models <br>🔭 I’m currently working on<br><br>Improving my ML skills by building real-world projects and exploring advanced model tuning techniques.<br><br>👯 I’m looking to collaborate on<br><br>Open-source Data Science or ML projects where I can contribute with data wrangling, model building, or visualization.<br><br>🤝 I’m looking for help with<br><br>Deep learning model optimization and understanding advanced deployment techniques (MLOps, CI/CD pipelines for ML).<br><br>🌱 I’m currently learning<br><br>	•	Advanced machine learning techniques<br>	•	Model deployment & monitoring<br>	•	Real-time data visualization with Power BI<br><br>💬 Ask me about<br><br>	•	Python for data science<br>	•	Building and evaluating ML models<br>	•	Cleaning and analyzing data<br>	•	Visualizing insights with Power BI<br><br>⚡ Fun fact<br><br>I once turned a boring Excel sheet into an interactive Power BI dashboard that made my teacher say “Whoa!” 😄
+👋 Hi there! I'm Yash Kumar
 
+🎓 B.Sc. Computer Science & Data Analytics student at IIT Patna (CPI: 8.78)
+💡 Passionate about Data Analytics, Business Intelligence, and Machine Learning
+🐍 Skilled in Python, Power BI, SQL, and Data Analysis
+🔭 I'm currently working on
+
+Building real-world Power BI dashboards and EDA projects while strengthening my foundation for Machine Learning.
+
+👯 I'm looking to collaborate on
+
+Open-source Data Analytics or Data Science projects where I can contribute with data wrangling, EDA, or visualization.
+
+🤝 I'm looking for help with
+
+Machine Learning model building and understanding deployment techniques (MLOps, Streamlit).
+
+🌱 I'm currently learning
+
+- Advanced SQL & query optimization
+- Machine Learning fundamentals (Scikit-learn)
+- Real-time data visualization with Power BI
+
+💬 Ask me about
+
+- Python for data analysis
+- Power BI dashboard design
+- SQL queries & database management
+- Cleaning and analyzing data with Pandas
+
+🎯 Goal
+
+Land a Data Analyst role and grow into a Machine Learning Engineer through hands-on industry experience.
+
+⚡ Fun fact
+
+I once turned a boring Excel sheet into an interactive Power BI dashboard that made my friend say "Whoa!" 😄
 
 # ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -11,6 +46,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yh497&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yh497&theme=shadow_blue&hide_border=true)<br/>
@@ -24,5 +60,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yh497&icon=2&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
