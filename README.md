@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I'm Yash Kumar
 
-🎓 B.Sc. Computer Science & Data Analytics student at IIT Patna   
+🎓 B.Sc. Computer Science & Data Analytics student at IIT Patna     
 💡 Passionate about Data Analytics, Business Intelligence, and Machine Learning
 🐍 Skilled in Python, Power BI, SQL, and Data Analysis
 🔭 I'm currently working on
